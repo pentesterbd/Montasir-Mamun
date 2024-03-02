@@ -2,11 +2,14 @@
 ### Hi there 👋, Montasir Mamun
 #### Jr. Penetration Tester | Bug Hunter | Security Research |
 
-
 I am a dedicated Junior Penetration Tester. My passion for cybersecurity drives me to continuously enhance my skills. With a proactive approach and commitment to excellence, I excel in safeguarding systems and data. My proficiency in team leadership allows me to effectively collaborate and lead projects to success. My technical acumen, coupled with my creative flair in graphic design, makes me a versatile professional in the cybersecurity domain. Overall, I am a knowledgeable and skilled professional with a passion for cybersecurity and a drive for excellence in all aspects of my work.
 
 Skills: Penetration Testing, Bug Hunting, Security Analyst, SOC, Cloud Security, Network Security, Team Leadership, Graphic Design, Microsoft Office etc.
 
+- 🔭 I’m currently working on Freelancer 
+- 🌱 I’m currently learning Penetration Testing 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about Cyber Security  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pentesterbd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/montasirmamun/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/montasirmamunbd)  
