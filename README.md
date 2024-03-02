@@ -1,6 +1,7 @@
-![Jr. Penetration Tester | Bug Hunter | Security Research |](https://media.licdn.com/dms/image/D4D16AQFvwbd-sKeQtg/profile-displaybackgroundimage-shrink_350_1400/0/1709191146468?e=1714608000&v=beta&t=I3AN9WLVncUreFH216WggEZhbWAf4LhYCiOHmt12t_A)
+![Jr. Penetration Tester | Bug Hunter | Security Research |](https://pbs.twimg.com/profile_banners/1192813873302253576/1709190187/600x200)
 ### Hi there 👋, Montasir Mamun
 #### Jr. Penetration Tester | Bug Hunter | Security Research |
+
 
 I am a dedicated Junior Penetration Tester. My passion for cybersecurity drives me to continuously enhance my skills. With a proactive approach and commitment to excellence, I excel in safeguarding systems and data. My proficiency in team leadership allows me to effectively collaborate and lead projects to success. My technical acumen, coupled with my creative flair in graphic design, makes me a versatile professional in the cybersecurity domain. Overall, I am a knowledgeable and skilled professional with a passion for cybersecurity and a drive for excellence in all aspects of my work.
 
